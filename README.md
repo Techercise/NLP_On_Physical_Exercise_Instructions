@@ -25,4 +25,5 @@ The results folder contains all results found. Please note that these results si
 
 ### Cite Us
 If using this work, we hope that you'll throw a citation our way if you found it useful.
+
 Leinhauser, M., & Burns, R. (2019, April). PHYSICAL EXERCISE INSTRUCTIONS: UNLOCKING THE KEY TO INJURY-FREE WORKOUTS USING NATURAL LANGUAGE PROCESSING. In 34th Annual Conference of The Pennsylvania Association of Computer and Information Science Educators (p. 91).
